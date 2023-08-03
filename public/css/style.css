@@ -7,8 +7,9 @@
 }
 
 body {
-    width: 70vw;
     margin: 0 auto;
+    width: 70vw;
+    height: 90vh;
     text-align: center;
 }
 
