@@ -7,7 +7,7 @@
 }
 
 body {
-    width: 1040px;
+    width: 70vw;
     margin: 0 auto;
     text-align: center;
 }
@@ -29,5 +29,6 @@ a {
 
 main {
     margin-top: 20%;
+    height: 80vh;
     text-align: center;
 }
